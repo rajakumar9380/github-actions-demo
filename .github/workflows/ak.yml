@@ -12,4 +12,4 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Run Script
-        run: ./ak.sh
+        run: sh ak.sh
