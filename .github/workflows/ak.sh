@@ -8,3 +8,4 @@ then
 echo "user is present"
 else
 echo "user is not present"
+fi
